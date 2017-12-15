@@ -1,0 +1,15 @@
+(lp1
+S'cat'
+p2
+aS'dog'
+p3
+aI1
+aI2
+acnumpy.core
+_ufunc_reconstruct
+p4
+(S'scipy.optimize._basinhopping'
+p5
+S'sin'
+tRp6
+a.
